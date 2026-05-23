@@ -16,10 +16,7 @@ The main objective of this project is to:
 
 ---
 
-# Dataset Information
 
-Dataset Name:
-`Student_Performance.csv`
 
 The dataset contains the following features:
 
